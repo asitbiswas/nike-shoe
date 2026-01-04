@@ -16,7 +16,7 @@ function HeroSection(){
             <p>Also Available On</p>
             <div className="brand-icons">
               <img src="./images/flipkart.png" alt="flipkart-logo" />
-              <img src="...../images/amazon.png" alt="amazon-logo" />
+              <img src="./images/amazon.png" alt="amazon-logo" />
             </div>
           </div>
         </div>
